@@ -1,0 +1,1 @@
+Build a Flask web app with a homepage, about page, and contact form. Each route should render an HTML template with Bootstrap styling.
