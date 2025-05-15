@@ -1,0 +1,46 @@
+# Bytecode and Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+.env
+.env.*
+
+# Distribution/Packaging
+build/
+dist/
+*.egg-info/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE configs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and caches
+*.log
+*.coverage
+.cache/
+coverage.xml
+
+# Test artifacts
+test_output/
+translated/
+quill_output/
+quill_visuals/
+
+# Node output (for UI components)
+node_modules/
+
+# Firebase/Vercel configs
+.firebaserc
+.firebase/
+.vercel/
